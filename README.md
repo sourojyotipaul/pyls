@@ -18,7 +18,7 @@ A Python implementation of the `ls` command that lists files and directories in 
 1. Run the script using Python:
 
     ```python
-    python -m pyls [options] [path]```
+    python -m pyls [options] [path]
 
 - Options
 - A: Include hidden files.
