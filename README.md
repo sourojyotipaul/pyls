@@ -21,11 +21,11 @@ A Python implementation of the `ls` command that lists files and directories in 
     python -m pyls [options] [path]
 
 - Options
-- A: Include hidden files.
-- l: Use long listing format.
-- r: Reverse order.
-- t: Sort by time modified.
-- filter=: Filter by file type (file or dir).
+- -A: Include hidden files.
+- -l: Use long listing format.
+- -r: Reverse order.
+- -t: Sort by time modified.
+- -filter=: Filter by file type (file or dir).
 
 ## Running Tests
 
